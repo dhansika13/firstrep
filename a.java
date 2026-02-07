@@ -1,2 +1,5 @@
-hii hello
-this is the 1st file
+class javamain{
+public static void main(String args[]){
+System.out.println("hello");
+  }
+}
